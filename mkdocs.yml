@@ -1,0 +1,7 @@
+site_name: Hoser
+theme:
+  name: material
+  logo: assets/logo.png
+extra_css:
+  - stylesheets/extra.css
+repo_url: https://github.com/masp/hoser-runtime
